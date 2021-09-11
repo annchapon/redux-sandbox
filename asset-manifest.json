@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/redux-sandbox/static/js/main.e6a34927.chunk.js",
-    "main.js.map": "/redux-sandbox/static/js/main.e6a34927.chunk.js.map",
+    "main.js": "/redux-sandbox/static/js/main.86bfc0c6.chunk.js",
+    "main.js.map": "/redux-sandbox/static/js/main.86bfc0c6.chunk.js.map",
     "runtime-main.js": "/redux-sandbox/static/js/runtime-main.d420641b.js",
     "runtime-main.js.map": "/redux-sandbox/static/js/runtime-main.d420641b.js.map",
     "index.html": "/redux-sandbox/index.html"
   },
   "entrypoints": [
     "static/js/runtime-main.d420641b.js",
-    "static/js/main.e6a34927.chunk.js"
+    "static/js/main.86bfc0c6.chunk.js"
   ]
 }
