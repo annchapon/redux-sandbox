@@ -1,0 +1,2 @@
+(this["webpackJsonpredux-sandbox"]=this["webpackJsonpredux-sandbox"]||[]).push([[0],[function(e,o){var n=function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,o=arguments.length>1?arguments[1]:void 0;switch(o.type){case"INC":return e+1;default:return e}},t=n(void 0,{});t=n(t,{type:"INC"}),console.log(t),t=n(t,{type:"INC"}),console.log(t)}],[[0,1]]]);
+//# sourceMappingURL=main.9cb570ae.chunk.js.map
