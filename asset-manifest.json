@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/redux-sandbox/static/js/main.98f3317f.chunk.js",
-    "main.js.map": "/redux-sandbox/static/js/main.98f3317f.chunk.js.map",
+    "main.js": "/redux-sandbox/static/js/main.e19cd37f.chunk.js",
+    "main.js.map": "/redux-sandbox/static/js/main.e19cd37f.chunk.js.map",
     "runtime-main.js": "/redux-sandbox/static/js/runtime-main.d420641b.js",
     "runtime-main.js.map": "/redux-sandbox/static/js/runtime-main.d420641b.js.map",
-    "static/js/2.5f4f3f1a.chunk.js": "/redux-sandbox/static/js/2.5f4f3f1a.chunk.js",
-    "static/js/2.5f4f3f1a.chunk.js.map": "/redux-sandbox/static/js/2.5f4f3f1a.chunk.js.map",
+    "static/js/2.e6533c16.chunk.js": "/redux-sandbox/static/js/2.e6533c16.chunk.js",
+    "static/js/2.e6533c16.chunk.js.map": "/redux-sandbox/static/js/2.e6533c16.chunk.js.map",
     "index.html": "/redux-sandbox/index.html",
-    "static/js/2.5f4f3f1a.chunk.js.LICENSE.txt": "/redux-sandbox/static/js/2.5f4f3f1a.chunk.js.LICENSE.txt"
+    "static/js/2.e6533c16.chunk.js.LICENSE.txt": "/redux-sandbox/static/js/2.e6533c16.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d420641b.js",
-    "static/js/2.5f4f3f1a.chunk.js",
-    "static/js/main.98f3317f.chunk.js"
+    "static/js/2.e6533c16.chunk.js",
+    "static/js/main.e19cd37f.chunk.js"
   ]
 }
